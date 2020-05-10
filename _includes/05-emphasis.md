@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*HelloWorld* this should be italic
+_HelloWorld_ this sould also be italic
+
+**HelloWorld** this should be bold
+__HelloWorld__ this should also be bold 
